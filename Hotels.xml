@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Hilton Garden Inn</Name>
+    <Phone>602-555-1234</Phone>
+    <Address>
+      <Number>101</Number>
+      <Street>1st Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Hyatt Regency</Name>
+    <Phone>602-888-7890</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>122</Number>
+      <Street>W Jefferson St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85003</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Motel 6</Name>
+    <Phone>480-222-4444</Phone>
+    <Address>
+      <Number>455</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.8">
+    <Name>Embassy Suites</Name>
+    <Phone>602-111-2222</Phone>
+    <Address NearestAirport="Mesa Gateway">
+      <Number>289</Number>
+      <Street>E Southern Ave</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85204</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.6">
+    <Name>DoubleTree</Name>
+    <Phone>623-444-0000</Phone>
+    <Address>
+      <Number>345</Number>
+      <Street>N Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85012</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Holiday Inn</Name>
+    <Phone>602-999-1234</Phone>
+    <Phone>888-777-4321</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>520</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.8">
+    <Name>Fairmont Scottsdale</Name>
+    <Phone>480-333-5678</Phone>
+    <Address>
+      <Number>7575</Number>
+      <Street>E Princess Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85255</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Residence Inn</Name>
+    <Phone>480-666-9999</Phone>
+    <Address>
+      <Number>6040</Number>
+      <Street>W Bell Rd</Street>
+      <City>Glendale</City>
+      <State>AZ</State>
+      <Zip>85308</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.9">
+    <Name>Comfort Suites</Name>
+    <Phone>602-123-4567</Phone>
+    <Address>
+      <Number>1625</Number>
+      <Street>S 52nd St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
